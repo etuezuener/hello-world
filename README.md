@@ -1,3 +1,4 @@
 # hello-world
-first try \newline
+first try
+
 second try getting used to it
